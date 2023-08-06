@@ -1,0 +1,13 @@
+README.md
+setup.py
+s1290202_learn/__init__.py
+s1290202_learn/statistics/__init__.py
+s1290202_learn/statistics/frequenciesOfItems.py
+s1290202_learn/statistics/toData.py
+s1290202_learn/visualization/__init__.py
+s1290202_learn/visualization/heatMapItemsFrequencies.py
+test_pypipkg.egg-info/PKG-INFO
+test_pypipkg.egg-info/SOURCES.txt
+test_pypipkg.egg-info/dependency_links.txt
+test_pypipkg.egg-info/requires.txt
+test_pypipkg.egg-info/top_level.txt
